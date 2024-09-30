@@ -1,0 +1,34 @@
+.kal{
+    width: 150px;
+    border-radius: 50px;
+
+}
+
+.kal:hover{
+    width: 350px;
+    transition: 3s;
+}
+
+.pp{
+    background-color: aqua;
+    width: 370px;
+    height: 50px;
+    font-size: 24px;
+    padding-top: 19px;
+    padding-left: 15px;
+    border-radius: 50px;
+}
+.pp:hover{
+    height: 100px;
+    transition: 3s;
+    width: 740px;
+    font-size: 48px;
+    background-color: rgb(251, 53, 53);
+    color: rgb(255, 255, 255);
+
+    .kal{
+        width: 350px;
+        transition: 3s;
+    }
+    
+}

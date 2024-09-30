@@ -1,0 +1,27 @@
+.IMG{
+    width: 300px;
+    
+}
+.IMG:hover{
+    border-radius: 50px;
+    transition: 2s;
+}
+.p{
+    background-color: rgb(238, 71, 99);
+    margin-top: 0px;
+    height: 50px;
+    font-size: 40px;
+    padding-left: 20px;
+    width: 280px;
+    border-radius: 100px;
+    margin-bottom: 0px;
+}
+
+.but{
+    width: 300px;
+    height: 60px;
+    margin-top: 10px;
+    border-radius: 100px;
+    background-color: rgb(200, 75, 75);
+    font-size: 15px;
+}

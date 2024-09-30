@@ -1,0 +1,30 @@
+.img{
+    width: 300px;
+    display: inline-block;
+    margin-right: 0px;
+    border-radius: 50px;
+}
+.img:hover{
+    border-radius: 290px;
+    transition: 2s;
+    width: 250px;
+}
+
+.p{
+    display: inline-block;
+    font-size: 55px;
+    background-color: rgb(143, 237, 237);
+    margin-top: 0px;
+    width: 600px;
+    border-radius: 20px;
+}
+.p:hover{
+background-color: rgb(237, 65, 65);
+transition: 3s;
+color: aqua;
+}
+.KUL{
+    height: 50px;
+    background-color: rgb(225, 57, 57);
+    border-radius: 100px;
+}
